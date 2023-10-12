@@ -1,0 +1,8 @@
+#ifndef B592DC22_73B0_4470_8747_7002817ACD71
+#define B592DC22_73B0_4470_8747_7002817ACD71
+
+#include <cmath>
+
+/* genius header */
+
+#endif /* B592DC22_73B0_4470_8747_7002817ACD71 */
